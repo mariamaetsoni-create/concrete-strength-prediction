@@ -19,6 +19,8 @@ Example: a mix with 350 kg/m3 cement, 175 kg/m3 water and age 28 days is predict
 
 ![Actual vs Predicted](actual_vs_predicted.png)
 
+![Feature importance](feature_importance.png)
+
 ## Notebook
 See `concrete_strength_prediction.ipynb`.
 
